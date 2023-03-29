@@ -1,0 +1,3070 @@
+[
+  {
+    "_id": {
+      "$oid": "63bf8239f03239e002001612"
+    },
+    "totalProfit": 21200000,
+    "totalRevenue": 28300000,
+    "totalExpenses": 7100000,
+    "expensesByCategory": {
+      "salaries": 3800000,
+      "supplies": 1300000,
+      "services": 1000000
+    },
+    "monthlyData": [
+      {
+        "month": "january",
+        "revenue": 1598964,
+        "expenses": 1423173,
+        "operationalExpenses": 1034003,
+        "nonOperationalExpenses": 489170,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8517c"
+        }
+      },
+      {
+        "month": "february",
+        "revenue": 1583277,
+        "expenses": 1167784,
+        "operationalExpenses": 700669,
+        "nonOperationalExpenses": 866115,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8517d"
+        }
+      },
+      {
+        "month": "march",
+        "revenue": 1648127,
+        "expenses": 1466403,
+        "operationalExpenses": 879742,
+        "nonOperationalExpenses": 786661,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8517e"
+        }
+      },
+      {
+        "month": "april",
+        "revenue": 1822938,
+        "expenses": 1233652,
+        "operationalExpenses": 740191,
+        "nonOperationalExpenses": 293461,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8517f"
+        }
+      },
+      {
+        "month": "may",
+        "revenue": 1740179,
+        "expenses": 1116061,
+        "operationalExpenses": 429637,
+        "nonOperationalExpenses": 486424,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85180"
+        }
+      },
+      {
+        "month": "june",
+        "revenue": 1827403,
+        "expenses": 1231161,
+        "operationalExpenses": 738696,
+        "nonOperationalExpenses": 992465,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85181"
+        }
+      },
+      {
+        "month": "july",
+        "revenue": 1934998,
+        "expenses": 1543181,
+        "operationalExpenses": 925809,
+        "nonOperationalExpenses": 717372,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85182"
+        }
+      },
+      {
+        "month": "august",
+        "revenue": 1664729,
+        "expenses": 1321371,
+        "operationalExpenses": 312782,
+        "nonOperationalExpenses": 508589,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85183"
+        }
+      },
+      {
+        "month": "september",
+        "revenue": 1934407,
+        "expenses": 1740592,
+        "operationalExpenses": 1044355,
+        "nonOperationalExpenses": 496237,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85184"
+        }
+      },
+      {
+        "month": "october",
+        "revenue": 2116022,
+        "expenses": 1299058,
+        "operationalExpenses": 359435,
+        "nonOperationalExpenses": 939623,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85185"
+        }
+      },
+      {
+        "month": "november",
+        "revenue": 2265503,
+        "expenses": 1714080,
+        "operationalExpenses": 1028448,
+        "nonOperationalExpenses": 385632,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85186"
+        }
+      },
+      {
+        "month": "december",
+        "revenue": 1775775,
+        "expenses": 1526697,
+        "operationalExpenses": 916018,
+        "nonOperationalExpenses": 410679,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85187"
+        }
+      }
+    ],
+    "dailyData": [
+      {
+        "date": "2022-01-02",
+        "revenue": 149894,
+        "expenses": 43064,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85188"
+        }
+      },
+      {
+        "date": "2022-01-03",
+        "revenue": 93508,
+        "expenses": 32932,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85189"
+        }
+      },
+      {
+        "date": "2022-01-04",
+        "revenue": 135096,
+        "expenses": 56249,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8518a"
+        }
+      },
+      {
+        "date": "2022-01-05",
+        "revenue": 124433,
+        "expenses": 67932,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8518b"
+        }
+      },
+      {
+        "date": "2022-01-06",
+        "revenue": 113299,
+        "expenses": 43980,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8518c"
+        }
+      },
+      {
+        "date": "2022-01-07",
+        "revenue": 115831,
+        "expenses": 33612,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8518d"
+        }
+      },
+      {
+        "date": "2022-01-08",
+        "revenue": 118466,
+        "expenses": 51610,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8518e"
+        }
+      },
+      {
+        "date": "2022-01-09",
+        "revenue": 63732,
+        "expenses": 63506,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8518f"
+        }
+      },
+      {
+        "date": "2022-01-10",
+        "revenue": 131521,
+        "expenses": 56012,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85190"
+        }
+      },
+      {
+        "date": "2022-01-11",
+        "revenue": 109306,
+        "expenses": 54005,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85191"
+        }
+      },
+      {
+        "date": "2022-01-12",
+        "revenue": 147777,
+        "expenses": 48716,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85192"
+        }
+      },
+      {
+        "date": "2022-01-13",
+        "revenue": 107609,
+        "expenses": 61629,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85193"
+        }
+      },
+      {
+        "date": "2022-01-14",
+        "revenue": 113096,
+        "expenses": 39217,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85194"
+        }
+      },
+      {
+        "date": "2022-01-15",
+        "revenue": 84642,
+        "expenses": 54838,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85195"
+        }
+      },
+      {
+        "date": "2022-01-16",
+        "revenue": 118235,
+        "expenses": 36672,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85196"
+        }
+      },
+      {
+        "date": "2022-01-17",
+        "revenue": 104661,
+        "expenses": 48156,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85197"
+        }
+      },
+      {
+        "date": "2022-01-18",
+        "revenue": 60165,
+        "expenses": 45275,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85198"
+        }
+      },
+      {
+        "date": "2022-01-19",
+        "revenue": 79833,
+        "expenses": 35123,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85199"
+        }
+      },
+      {
+        "date": "2022-01-20",
+        "revenue": 149937,
+        "expenses": 34085,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8519a"
+        }
+      },
+      {
+        "date": "2022-01-21",
+        "revenue": 146226,
+        "expenses": 63031,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8519b"
+        }
+      },
+      {
+        "date": "2022-01-22",
+        "revenue": 144738,
+        "expenses": 47659,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8519c"
+        }
+      },
+      {
+        "date": "2022-01-23",
+        "revenue": 119496,
+        "expenses": 48285,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8519d"
+        }
+      },
+      {
+        "date": "2022-01-24",
+        "revenue": 71311,
+        "expenses": 75433,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8519e"
+        }
+      },
+      {
+        "date": "2022-01-25",
+        "revenue": 108448,
+        "expenses": 54737,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8519f"
+        }
+      },
+      {
+        "date": "2022-01-26",
+        "revenue": 81953,
+        "expenses": 65359,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851a0"
+        }
+      },
+      {
+        "date": "2022-01-27",
+        "revenue": 130661,
+        "expenses": 63687,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851a1"
+        }
+      },
+      {
+        "date": "2022-01-28",
+        "revenue": 102978,
+        "expenses": 71946,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851a2"
+        }
+      },
+      {
+        "date": "2022-01-29",
+        "revenue": 141518,
+        "expenses": 38749,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851a3"
+        }
+      },
+      {
+        "date": "2022-01-30",
+        "revenue": 84538,
+        "expenses": 53393,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851a4"
+        }
+      },
+      {
+        "date": "2022-01-31",
+        "revenue": 76469,
+        "expenses": 76235,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851a5"
+        }
+      },
+      {
+        "date": "2022-02-01",
+        "revenue": 61649,
+        "expenses": 65892,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851a6"
+        }
+      },
+      {
+        "date": "2022-02-02",
+        "revenue": 67771,
+        "expenses": 75469,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851a7"
+        }
+      },
+      {
+        "date": "2022-02-03",
+        "revenue": 57699,
+        "expenses": 39543,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851a8"
+        }
+      },
+      {
+        "date": "2022-02-04",
+        "revenue": 71358,
+        "expenses": 73327,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851a9"
+        }
+      },
+      {
+        "date": "2022-02-05",
+        "revenue": 71418,
+        "expenses": 33624,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851aa"
+        }
+      },
+      {
+        "date": "2022-02-06",
+        "revenue": 80764,
+        "expenses": 53449,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ab"
+        }
+      },
+      {
+        "date": "2022-02-07",
+        "revenue": 82440,
+        "expenses": 74382,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ac"
+        }
+      },
+      {
+        "date": "2022-02-08",
+        "revenue": 97530,
+        "expenses": 30751,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ad"
+        }
+      },
+      {
+        "date": "2022-02-09",
+        "revenue": 109858,
+        "expenses": 61531,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ae"
+        }
+      },
+      {
+        "date": "2022-02-10",
+        "revenue": 111934,
+        "expenses": 67704,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851af"
+        }
+      },
+      {
+        "date": "2022-02-11",
+        "revenue": 123239,
+        "expenses": 66469,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851b0"
+        }
+      },
+      {
+        "date": "2022-02-12",
+        "revenue": 140521,
+        "expenses": 42257,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851b1"
+        }
+      },
+      {
+        "date": "2022-02-13",
+        "revenue": 134347,
+        "expenses": 35077,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851b2"
+        }
+      },
+      {
+        "date": "2022-02-14",
+        "revenue": 149581,
+        "expenses": 30139,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851b3"
+        }
+      },
+      {
+        "date": "2022-02-15",
+        "revenue": 113197,
+        "expenses": 59706,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851b4"
+        }
+      },
+      {
+        "date": "2022-02-16",
+        "revenue": 117417,
+        "expenses": 68508,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851b5"
+        }
+      },
+      {
+        "date": "2022-02-17",
+        "revenue": 70238,
+        "expenses": 67123,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851b6"
+        }
+      },
+      {
+        "date": "2022-02-18",
+        "revenue": 144095,
+        "expenses": 53955,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851b7"
+        }
+      },
+      {
+        "date": "2022-02-19",
+        "revenue": 127287,
+        "expenses": 70302,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851b8"
+        }
+      },
+      {
+        "date": "2022-02-20",
+        "revenue": 53016,
+        "expenses": 30575,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851b9"
+        }
+      },
+      {
+        "date": "2022-02-21",
+        "revenue": 55226,
+        "expenses": 55619,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ba"
+        }
+      },
+      {
+        "date": "2022-02-22",
+        "revenue": 145657,
+        "expenses": 67505,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851bb"
+        }
+      },
+      {
+        "date": "2022-02-23",
+        "revenue": 51204,
+        "expenses": 57637,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851bc"
+        }
+      },
+      {
+        "date": "2022-02-24",
+        "revenue": 88631,
+        "expenses": 41014,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851bd"
+        }
+      },
+      {
+        "date": "2022-02-25",
+        "revenue": 125455,
+        "expenses": 32141,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851be"
+        }
+      },
+      {
+        "date": "2022-02-26",
+        "revenue": 112303,
+        "expenses": 48050,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851bf"
+        }
+      },
+      {
+        "date": "2022-02-27",
+        "revenue": 67145,
+        "expenses": 49461,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851c0"
+        }
+      },
+      {
+        "date": "2022-02-28",
+        "revenue": 137322,
+        "expenses": 31267,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851c1"
+        }
+      },
+      {
+        "date": "2022-03-01",
+        "revenue": 89675,
+        "expenses": 69692,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851c2"
+        }
+      },
+      {
+        "date": "2022-03-02",
+        "revenue": 72153,
+        "expenses": 50534,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851c3"
+        }
+      },
+      {
+        "date": "2022-03-03",
+        "revenue": 56048,
+        "expenses": 54109,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851c4"
+        }
+      },
+      {
+        "date": "2022-03-04",
+        "revenue": 106540,
+        "expenses": 73390,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851c5"
+        }
+      },
+      {
+        "date": "2022-03-05",
+        "revenue": 69226,
+        "expenses": 46262,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851c6"
+        }
+      },
+      {
+        "date": "2022-03-06",
+        "revenue": 83286,
+        "expenses": 64228,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851c7"
+        }
+      },
+      {
+        "date": "2022-03-07",
+        "revenue": 70900,
+        "expenses": 74225,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851c8"
+        }
+      },
+      {
+        "date": "2022-03-08",
+        "revenue": 144266,
+        "expenses": 59624,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851c9"
+        }
+      },
+      {
+        "date": "2022-03-09",
+        "revenue": 54274,
+        "expenses": 65554,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ca"
+        }
+      },
+      {
+        "date": "2022-03-10",
+        "revenue": 52611,
+        "expenses": 53028,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851cb"
+        }
+      },
+      {
+        "date": "2022-03-11",
+        "revenue": 65847,
+        "expenses": 35221,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851cc"
+        }
+      },
+      {
+        "date": "2022-03-12",
+        "revenue": 99634,
+        "expenses": 74920,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851cd"
+        }
+      },
+      {
+        "date": "2022-03-13",
+        "revenue": 77093,
+        "expenses": 51691,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ce"
+        }
+      },
+      {
+        "date": "2022-03-14",
+        "revenue": 61737,
+        "expenses": 75807,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851cf"
+        }
+      },
+      {
+        "date": "2022-03-15",
+        "revenue": 78648,
+        "expenses": 45141,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851d0"
+        }
+      },
+      {
+        "date": "2022-03-16",
+        "revenue": 54091,
+        "expenses": 75689,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851d1"
+        }
+      },
+      {
+        "date": "2022-03-17",
+        "revenue": 91924,
+        "expenses": 70141,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851d2"
+        }
+      },
+      {
+        "date": "2022-03-18",
+        "revenue": 90923,
+        "expenses": 63837,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851d3"
+        }
+      },
+      {
+        "date": "2022-03-19",
+        "revenue": 54692,
+        "expenses": 46594,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851d4"
+        }
+      },
+      {
+        "date": "2022-03-20",
+        "revenue": 123313,
+        "expenses": 44179,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851d5"
+        }
+      },
+      {
+        "date": "2022-03-21",
+        "revenue": 149434,
+        "expenses": 33361,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851d6"
+        }
+      },
+      {
+        "date": "2022-03-22",
+        "revenue": 61014,
+        "expenses": 56513,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851d7"
+        }
+      },
+      {
+        "date": "2022-03-23",
+        "revenue": 104445,
+        "expenses": 70407,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851d8"
+        }
+      },
+      {
+        "date": "2022-03-24",
+        "revenue": 79003,
+        "expenses": 39317,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851d9"
+        }
+      },
+      {
+        "date": "2022-03-25",
+        "revenue": 91505,
+        "expenses": 70924,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851da"
+        }
+      },
+      {
+        "date": "2022-03-26",
+        "revenue": 62099,
+        "expenses": 30902,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851db"
+        }
+      },
+      {
+        "date": "2022-03-27",
+        "revenue": 140461,
+        "expenses": 64914,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851dc"
+        }
+      },
+      {
+        "date": "2022-03-28",
+        "revenue": 72752,
+        "expenses": 58027,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851dd"
+        }
+      },
+      {
+        "date": "2022-03-29",
+        "revenue": 61869,
+        "expenses": 50399,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851de"
+        }
+      },
+      {
+        "date": "2022-03-30",
+        "revenue": 80600,
+        "expenses": 54537,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851df"
+        }
+      },
+      {
+        "date": "2022-03-31",
+        "revenue": 62904,
+        "expenses": 44941,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851e0"
+        }
+      },
+      {
+        "date": "2022-04-01",
+        "revenue": 119771,
+        "expenses": 52489,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851e1"
+        }
+      },
+      {
+        "date": "2022-04-02",
+        "revenue": 134749,
+        "expenses": 77995,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851e2"
+        }
+      },
+      {
+        "date": "2022-04-03",
+        "revenue": 84573,
+        "expenses": 37366,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851e3"
+        }
+      },
+      {
+        "date": "2022-04-04",
+        "revenue": 70197,
+        "expenses": 42472,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851e4"
+        }
+      },
+      {
+        "date": "2022-04-05",
+        "revenue": 69912,
+        "expenses": 65228,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851e5"
+        }
+      },
+      {
+        "date": "2022-04-06",
+        "revenue": 148715,
+        "expenses": 52712,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851e6"
+        }
+      },
+      {
+        "date": "2022-04-07",
+        "revenue": 77093,
+        "expenses": 45504,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851e7"
+        }
+      },
+      {
+        "date": "2022-04-08",
+        "revenue": 82381,
+        "expenses": 68644,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851e8"
+        }
+      },
+      {
+        "date": "2022-04-09",
+        "revenue": 119089,
+        "expenses": 50152,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851e9"
+        }
+      },
+      {
+        "date": "2022-04-10",
+        "revenue": 66710,
+        "expenses": 79251,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ea"
+        }
+      },
+      {
+        "date": "2022-04-11",
+        "revenue": 71250,
+        "expenses": 32540,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851eb"
+        }
+      },
+      {
+        "date": "2022-04-12",
+        "revenue": 111394,
+        "expenses": 61037,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ec"
+        }
+      },
+      {
+        "date": "2022-04-13",
+        "revenue": 75504,
+        "expenses": 41331,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ed"
+        }
+      },
+      {
+        "date": "2022-04-14",
+        "revenue": 90346,
+        "expenses": 59264,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ee"
+        }
+      },
+      {
+        "date": "2022-04-15",
+        "revenue": 66847,
+        "expenses": 43913,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ef"
+        }
+      },
+      {
+        "date": "2022-04-16",
+        "revenue": 105355,
+        "expenses": 72314,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851f0"
+        }
+      },
+      {
+        "date": "2022-04-17",
+        "revenue": 57482,
+        "expenses": 62762,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851f1"
+        }
+      },
+      {
+        "date": "2022-04-18",
+        "revenue": 73219,
+        "expenses": 54584,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851f2"
+        }
+      },
+      {
+        "date": "2022-04-19",
+        "revenue": 121428,
+        "expenses": 58594,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851f3"
+        }
+      },
+      {
+        "date": "2022-04-20",
+        "revenue": 84463,
+        "expenses": 66886,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851f4"
+        }
+      },
+      {
+        "date": "2022-04-21",
+        "revenue": 54595,
+        "expenses": 45046,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851f5"
+        }
+      },
+      {
+        "date": "2022-04-22",
+        "revenue": 92501,
+        "expenses": 58816,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851f6"
+        }
+      },
+      {
+        "date": "2022-04-23",
+        "revenue": 84044,
+        "expenses": 32407,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851f7"
+        }
+      },
+      {
+        "date": "2022-04-24",
+        "revenue": 79981,
+        "expenses": 32028,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851f8"
+        }
+      },
+      {
+        "date": "2022-04-25",
+        "revenue": 110847,
+        "expenses": 33084,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851f9"
+        }
+      },
+      {
+        "date": "2022-04-26",
+        "revenue": 57272,
+        "expenses": 60523,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851fa"
+        }
+      },
+      {
+        "date": "2022-04-27",
+        "revenue": 141682,
+        "expenses": 74686,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851fb"
+        }
+      },
+      {
+        "date": "2022-04-28",
+        "revenue": 134454,
+        "expenses": 44810,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851fc"
+        }
+      },
+      {
+        "date": "2022-04-29",
+        "revenue": 95731,
+        "expenses": 65300,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851fd"
+        }
+      },
+      {
+        "date": "2022-04-30",
+        "revenue": 104275,
+        "expenses": 68648,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851fe"
+        }
+      },
+      {
+        "date": "2022-05-01",
+        "revenue": 61452,
+        "expenses": 39934,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a851ff"
+        }
+      },
+      {
+        "date": "2022-05-02",
+        "revenue": 96808,
+        "expenses": 49092,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85200"
+        }
+      },
+      {
+        "date": "2022-05-03",
+        "revenue": 81817,
+        "expenses": 66667,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85201"
+        }
+      },
+      {
+        "date": "2022-05-04",
+        "revenue": 78790,
+        "expenses": 64150,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85202"
+        }
+      },
+      {
+        "date": "2022-05-05",
+        "revenue": 88720,
+        "expenses": 45685,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85203"
+        }
+      },
+      {
+        "date": "2022-05-06",
+        "revenue": 92664,
+        "expenses": 59510,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85204"
+        }
+      },
+      {
+        "date": "2022-05-07",
+        "revenue": 66762,
+        "expenses": 65233,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85205"
+        }
+      },
+      {
+        "date": "2022-05-08",
+        "revenue": 145041,
+        "expenses": 66060,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85206"
+        }
+      },
+      {
+        "date": "2022-05-09",
+        "revenue": 100990,
+        "expenses": 47936,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85207"
+        }
+      },
+      {
+        "date": "2022-05-10",
+        "revenue": 54753,
+        "expenses": 55487,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85208"
+        }
+      },
+      {
+        "date": "2022-05-11",
+        "revenue": 57974,
+        "expenses": 43236,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85209"
+        }
+      },
+      {
+        "date": "2022-05-12",
+        "revenue": 59711,
+        "expenses": 41156,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8520a"
+        }
+      },
+      {
+        "date": "2022-05-13",
+        "revenue": 130097,
+        "expenses": 65418,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8520b"
+        }
+      },
+      {
+        "date": "2022-05-14",
+        "revenue": 104283,
+        "expenses": 71501,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8520c"
+        }
+      },
+      {
+        "date": "2022-05-15",
+        "revenue": 134561,
+        "expenses": 33437,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8520d"
+        }
+      },
+      {
+        "date": "2022-05-16",
+        "revenue": 76861,
+        "expenses": 42522,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8520e"
+        }
+      },
+      {
+        "date": "2022-05-17",
+        "revenue": 117515,
+        "expenses": 72916,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8520f"
+        }
+      },
+      {
+        "date": "2022-05-18",
+        "revenue": 76739,
+        "expenses": 77983,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85210"
+        }
+      },
+      {
+        "date": "2022-05-19",
+        "revenue": 96934,
+        "expenses": 34102,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85211"
+        }
+      },
+      {
+        "date": "2022-05-20",
+        "revenue": 99334,
+        "expenses": 53027,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85212"
+        }
+      },
+      {
+        "date": "2022-05-21",
+        "revenue": 96898,
+        "expenses": 59776,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85213"
+        }
+      },
+      {
+        "date": "2022-05-22",
+        "revenue": 62801,
+        "expenses": 57400,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85214"
+        }
+      },
+      {
+        "date": "2022-05-23",
+        "revenue": 84268,
+        "expenses": 40290,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85215"
+        }
+      },
+      {
+        "date": "2022-05-24",
+        "revenue": 98672,
+        "expenses": 36550,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85216"
+        }
+      },
+      {
+        "date": "2022-05-25",
+        "revenue": 132166,
+        "expenses": 53673,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85217"
+        }
+      },
+      {
+        "date": "2022-05-26",
+        "revenue": 80621,
+        "expenses": 49902,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85218"
+        }
+      },
+      {
+        "date": "2022-05-27",
+        "revenue": 88634,
+        "expenses": 77651,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85219"
+        }
+      },
+      {
+        "date": "2022-05-28",
+        "revenue": 66362,
+        "expenses": 71890,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8521a"
+        }
+      },
+      {
+        "date": "2022-05-29",
+        "revenue": 54673,
+        "expenses": 72932,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8521b"
+        }
+      },
+      {
+        "date": "2022-05-30",
+        "revenue": 128465,
+        "expenses": 35550,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8521c"
+        }
+      },
+      {
+        "date": "2022-05-31",
+        "revenue": 142281,
+        "expenses": 77655,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8521d"
+        }
+      },
+      {
+        "date": "2022-06-01",
+        "revenue": 67850,
+        "expenses": 76703,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8521e"
+        }
+      },
+      {
+        "date": "2022-06-02",
+        "revenue": 86765,
+        "expenses": 58176,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8521f"
+        }
+      },
+      {
+        "date": "2022-06-03",
+        "revenue": 67484,
+        "expenses": 66678,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85220"
+        }
+      },
+      {
+        "date": "2022-06-04",
+        "revenue": 59525,
+        "expenses": 35479,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85221"
+        }
+      },
+      {
+        "date": "2022-06-05",
+        "revenue": 126215,
+        "expenses": 58865,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85222"
+        }
+      },
+      {
+        "date": "2022-06-06",
+        "revenue": 128675,
+        "expenses": 40369,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85223"
+        }
+      },
+      {
+        "date": "2022-06-07",
+        "revenue": 73100,
+        "expenses": 53255,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85224"
+        }
+      },
+      {
+        "date": "2022-06-08",
+        "revenue": 109682,
+        "expenses": 32876,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85225"
+        }
+      },
+      {
+        "date": "2022-06-09",
+        "revenue": 111324,
+        "expenses": 74916,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85226"
+        }
+      },
+      {
+        "date": "2022-06-10",
+        "revenue": 147908,
+        "expenses": 41701,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85227"
+        }
+      },
+      {
+        "date": "2022-06-11",
+        "revenue": 102370,
+        "expenses": 32653,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85228"
+        }
+      },
+      {
+        "date": "2022-06-12",
+        "revenue": 95394,
+        "expenses": 42652,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85229"
+        }
+      },
+      {
+        "date": "2022-06-13",
+        "revenue": 115432,
+        "expenses": 56570,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8522a"
+        }
+      },
+      {
+        "date": "2022-06-14",
+        "revenue": 143149,
+        "expenses": 39888,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8522b"
+        }
+      },
+      {
+        "date": "2022-06-15",
+        "revenue": 120606,
+        "expenses": 44220,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8522c"
+        }
+      },
+      {
+        "date": "2022-06-16",
+        "revenue": 144107,
+        "expenses": 73036,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8522d"
+        }
+      },
+      {
+        "date": "2022-06-17",
+        "revenue": 66442,
+        "expenses": 58327,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8522e"
+        }
+      },
+      {
+        "date": "2022-06-18",
+        "revenue": 56978,
+        "expenses": 55695,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8522f"
+        }
+      },
+      {
+        "date": "2022-06-19",
+        "revenue": 61993,
+        "expenses": 51931,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85230"
+        }
+      },
+      {
+        "date": "2022-06-20",
+        "revenue": 123245,
+        "expenses": 41094,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85231"
+        }
+      },
+      {
+        "date": "2022-06-21",
+        "revenue": 142932,
+        "expenses": 34896,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85232"
+        }
+      },
+      {
+        "date": "2022-06-22",
+        "revenue": 130403,
+        "expenses": 59734,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85233"
+        }
+      },
+      {
+        "date": "2022-06-23",
+        "revenue": 108902,
+        "expenses": 57666,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85234"
+        }
+      },
+      {
+        "date": "2022-06-24",
+        "revenue": 74089,
+        "expenses": 61674,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85235"
+        }
+      },
+      {
+        "date": "2022-06-25",
+        "revenue": 106617,
+        "expenses": 65603,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85236"
+        }
+      },
+      {
+        "date": "2022-06-26",
+        "revenue": 138565,
+        "expenses": 71900,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85237"
+        }
+      },
+      {
+        "date": "2022-06-27",
+        "revenue": 149816,
+        "expenses": 57197,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85238"
+        }
+      },
+      {
+        "date": "2022-06-28",
+        "revenue": 57961,
+        "expenses": 41093,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85239"
+        }
+      },
+      {
+        "date": "2022-06-29",
+        "revenue": 62432,
+        "expenses": 52626,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8523a"
+        }
+      },
+      {
+        "date": "2022-06-30",
+        "revenue": 79871,
+        "expenses": 73602,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8523b"
+        }
+      },
+      {
+        "date": "2022-07-01",
+        "revenue": 97714,
+        "expenses": 66007,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8523c"
+        }
+      },
+      {
+        "date": "2022-07-02",
+        "revenue": 125750,
+        "expenses": 68212,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8523d"
+        }
+      },
+      {
+        "date": "2022-07-03",
+        "revenue": 59853,
+        "expenses": 42127,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8523e"
+        }
+      },
+      {
+        "date": "2022-07-04",
+        "revenue": 117854,
+        "expenses": 75049,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8523f"
+        }
+      },
+      {
+        "date": "2022-07-05",
+        "revenue": 65235,
+        "expenses": 61377,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85240"
+        }
+      },
+      {
+        "date": "2022-07-06",
+        "revenue": 92622,
+        "expenses": 69388,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85241"
+        }
+      },
+      {
+        "date": "2022-07-07",
+        "revenue": 130357,
+        "expenses": 68327,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85242"
+        }
+      },
+      {
+        "date": "2022-07-08",
+        "revenue": 53883,
+        "expenses": 70328,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85243"
+        }
+      },
+      {
+        "date": "2022-07-09",
+        "revenue": 80546,
+        "expenses": 51135,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85244"
+        }
+      },
+      {
+        "date": "2022-07-10",
+        "revenue": 61423,
+        "expenses": 60768,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85245"
+        }
+      },
+      {
+        "date": "2022-07-11",
+        "revenue": 98625,
+        "expenses": 59038,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85246"
+        }
+      },
+      {
+        "date": "2022-07-12",
+        "revenue": 103561,
+        "expenses": 49620,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85247"
+        }
+      },
+      {
+        "date": "2022-07-13",
+        "revenue": 51087,
+        "expenses": 31095,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85248"
+        }
+      },
+      {
+        "date": "2022-07-14",
+        "revenue": 137538,
+        "expenses": 76617,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85249"
+        }
+      },
+      {
+        "date": "2022-07-15",
+        "revenue": 129854,
+        "expenses": 72607,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8524a"
+        }
+      },
+      {
+        "date": "2022-07-16",
+        "revenue": 85892,
+        "expenses": 30226,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8524b"
+        }
+      },
+      {
+        "date": "2022-07-17",
+        "revenue": 52066,
+        "expenses": 61126,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8524c"
+        }
+      },
+      {
+        "date": "2022-07-18",
+        "revenue": 79483,
+        "expenses": 30778,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8524d"
+        }
+      },
+      {
+        "date": "2022-07-19",
+        "revenue": 132866,
+        "expenses": 43909,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8524e"
+        }
+      },
+      {
+        "date": "2022-07-20",
+        "revenue": 131481,
+        "expenses": 35062,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8524f"
+        }
+      },
+      {
+        "date": "2022-07-21",
+        "revenue": 128119,
+        "expenses": 34302,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85250"
+        }
+      },
+      {
+        "date": "2022-07-22",
+        "revenue": 56959,
+        "expenses": 68964,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85251"
+        }
+      },
+      {
+        "date": "2022-07-23",
+        "revenue": 95197,
+        "expenses": 63880,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85252"
+        }
+      },
+      {
+        "date": "2022-07-24",
+        "revenue": 132368,
+        "expenses": 45490,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85253"
+        }
+      },
+      {
+        "date": "2022-07-25",
+        "revenue": 85204,
+        "expenses": 64514,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85254"
+        }
+      },
+      {
+        "date": "2022-07-26",
+        "revenue": 132345,
+        "expenses": 76345,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85255"
+        }
+      },
+      {
+        "date": "2022-07-27",
+        "revenue": 109168,
+        "expenses": 57646,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85256"
+        }
+      },
+      {
+        "date": "2022-07-28",
+        "revenue": 80531,
+        "expenses": 53442,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85257"
+        }
+      },
+      {
+        "date": "2022-07-29",
+        "revenue": 85809,
+        "expenses": 54769,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85258"
+        }
+      },
+      {
+        "date": "2022-07-30",
+        "revenue": 72094,
+        "expenses": 30857,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85259"
+        }
+      },
+      {
+        "date": "2022-07-31",
+        "revenue": 85413,
+        "expenses": 34054,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8525a"
+        }
+      },
+      {
+        "date": "2022-08-01",
+        "revenue": 77598,
+        "expenses": 49331,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8525b"
+        }
+      },
+      {
+        "date": "2022-08-02",
+        "revenue": 119406,
+        "expenses": 32715,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8525c"
+        }
+      },
+      {
+        "date": "2022-08-03",
+        "revenue": 146358,
+        "expenses": 56015,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8525d"
+        }
+      },
+      {
+        "date": "2022-08-04",
+        "revenue": 84665,
+        "expenses": 58621,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8525e"
+        }
+      },
+      {
+        "date": "2022-08-05",
+        "revenue": 134722,
+        "expenses": 66495,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8525f"
+        }
+      },
+      {
+        "date": "2022-08-06",
+        "revenue": 64363,
+        "expenses": 71849,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85260"
+        }
+      },
+      {
+        "date": "2022-08-07",
+        "revenue": 58272,
+        "expenses": 33996,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85261"
+        }
+      },
+      {
+        "date": "2022-08-08",
+        "revenue": 136065,
+        "expenses": 68315,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85262"
+        }
+      },
+      {
+        "date": "2022-08-09",
+        "revenue": 128411,
+        "expenses": 34374,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85263"
+        }
+      },
+      {
+        "date": "2022-08-10",
+        "revenue": 110350,
+        "expenses": 61488,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85264"
+        }
+      },
+      {
+        "date": "2022-08-11",
+        "revenue": 52848,
+        "expenses": 76216,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85265"
+        }
+      },
+      {
+        "date": "2022-08-12",
+        "revenue": 97969,
+        "expenses": 46836,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85266"
+        }
+      },
+      {
+        "date": "2022-08-13",
+        "revenue": 145787,
+        "expenses": 39097,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85267"
+        }
+      },
+      {
+        "date": "2022-08-14",
+        "revenue": 139729,
+        "expenses": 76124,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85268"
+        }
+      },
+      {
+        "date": "2022-08-15",
+        "revenue": 80238,
+        "expenses": 68088,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85269"
+        }
+      },
+      {
+        "date": "2022-08-16",
+        "revenue": 91644,
+        "expenses": 56335,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8526a"
+        }
+      },
+      {
+        "date": "2022-08-17",
+        "revenue": 52583,
+        "expenses": 62237,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8526b"
+        }
+      },
+      {
+        "date": "2022-08-18",
+        "revenue": 104348,
+        "expenses": 75784,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8526c"
+        }
+      },
+      {
+        "date": "2022-08-19",
+        "revenue": 68954,
+        "expenses": 59378,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8526d"
+        }
+      },
+      {
+        "date": "2022-08-20",
+        "revenue": 130655,
+        "expenses": 39712,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8526e"
+        }
+      },
+      {
+        "date": "2022-08-21",
+        "revenue": 141461,
+        "expenses": 38005,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8526f"
+        }
+      },
+      {
+        "date": "2022-08-22",
+        "revenue": 63609,
+        "expenses": 42699,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85270"
+        }
+      },
+      {
+        "date": "2022-08-23",
+        "revenue": 112852,
+        "expenses": 34134,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85271"
+        }
+      },
+      {
+        "date": "2022-08-24",
+        "revenue": 79405,
+        "expenses": 43200,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85272"
+        }
+      },
+      {
+        "date": "2022-08-25",
+        "revenue": 93638,
+        "expenses": 41662,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85273"
+        }
+      },
+      {
+        "date": "2022-08-26",
+        "revenue": 115946,
+        "expenses": 70927,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85274"
+        }
+      },
+      {
+        "date": "2022-08-27",
+        "revenue": 145779,
+        "expenses": 49826,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85275"
+        }
+      },
+      {
+        "date": "2022-08-28",
+        "revenue": 137686,
+        "expenses": 58187,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85276"
+        }
+      },
+      {
+        "date": "2022-08-29",
+        "revenue": 83011,
+        "expenses": 42340,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85277"
+        }
+      },
+      {
+        "date": "2022-08-30",
+        "revenue": 143168,
+        "expenses": 47183,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85278"
+        }
+      },
+      {
+        "date": "2022-08-31",
+        "revenue": 72017,
+        "expenses": 71955,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85279"
+        }
+      },
+      {
+        "date": "2022-09-01",
+        "revenue": 115803,
+        "expenses": 57054,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8527a"
+        }
+      },
+      {
+        "date": "2022-09-02",
+        "revenue": 111739,
+        "expenses": 60689,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8527b"
+        }
+      },
+      {
+        "date": "2022-09-03",
+        "revenue": 136728,
+        "expenses": 76769,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8527c"
+        }
+      },
+      {
+        "date": "2022-09-04",
+        "revenue": 115267,
+        "expenses": 43539,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8527d"
+        }
+      },
+      {
+        "date": "2022-09-05",
+        "revenue": 53015,
+        "expenses": 44932,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8527e"
+        }
+      },
+      {
+        "date": "2022-09-06",
+        "revenue": 61571,
+        "expenses": 74952,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8527f"
+        }
+      },
+      {
+        "date": "2022-09-07",
+        "revenue": 105753,
+        "expenses": 33659,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85280"
+        }
+      },
+      {
+        "date": "2022-09-08",
+        "revenue": 113075,
+        "expenses": 48513,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85281"
+        }
+      },
+      {
+        "date": "2022-09-09",
+        "revenue": 137456,
+        "expenses": 60654,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85282"
+        }
+      },
+      {
+        "date": "2022-09-10",
+        "revenue": 108633,
+        "expenses": 47442,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85283"
+        }
+      },
+      {
+        "date": "2022-09-11",
+        "revenue": 93813,
+        "expenses": 43159,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85284"
+        }
+      },
+      {
+        "date": "2022-09-12",
+        "revenue": 81520,
+        "expenses": 76507,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85285"
+        }
+      },
+      {
+        "date": "2022-09-13",
+        "revenue": 100919,
+        "expenses": 58963,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85286"
+        }
+      },
+      {
+        "date": "2022-09-14",
+        "revenue": 124700,
+        "expenses": 47695,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85287"
+        }
+      },
+      {
+        "date": "2022-09-15",
+        "revenue": 61512,
+        "expenses": 73085,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85288"
+        }
+      },
+      {
+        "date": "2022-09-16",
+        "revenue": 102587,
+        "expenses": 51746,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85289"
+        }
+      },
+      {
+        "date": "2022-09-17",
+        "revenue": 101251,
+        "expenses": 31631,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8528a"
+        }
+      },
+      {
+        "date": "2022-09-18",
+        "revenue": 138192,
+        "expenses": 62652,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8528b"
+        }
+      },
+      {
+        "date": "2022-09-19",
+        "revenue": 81726,
+        "expenses": 36033,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8528c"
+        }
+      },
+      {
+        "date": "2022-09-20",
+        "revenue": 64200,
+        "expenses": 72813,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8528d"
+        }
+      },
+      {
+        "date": "2022-09-21",
+        "revenue": 55487,
+        "expenses": 77002,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8528e"
+        }
+      },
+      {
+        "date": "2022-09-22",
+        "revenue": 149484,
+        "expenses": 56933,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8528f"
+        }
+      },
+      {
+        "date": "2022-09-23",
+        "revenue": 125425,
+        "expenses": 39000,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85290"
+        }
+      },
+      {
+        "date": "2022-09-24",
+        "revenue": 74993,
+        "expenses": 47359,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85291"
+        }
+      },
+      {
+        "date": "2022-09-25",
+        "revenue": 132951,
+        "expenses": 36160,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85292"
+        }
+      },
+      {
+        "date": "2022-09-26",
+        "revenue": 109498,
+        "expenses": 66094,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85293"
+        }
+      },
+      {
+        "date": "2022-09-27",
+        "revenue": 117018,
+        "expenses": 42090,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85294"
+        }
+      },
+      {
+        "date": "2022-09-28",
+        "revenue": 87236,
+        "expenses": 62782,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85295"
+        }
+      },
+      {
+        "date": "2022-09-29",
+        "revenue": 99059,
+        "expenses": 40593,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85296"
+        }
+      },
+      {
+        "date": "2022-09-30",
+        "revenue": 83162,
+        "expenses": 38283,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85297"
+        }
+      },
+      {
+        "date": "2022-10-01",
+        "revenue": 128441,
+        "expenses": 73688,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85298"
+        }
+      },
+      {
+        "date": "2022-10-02",
+        "revenue": 127295,
+        "expenses": 64585,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a85299"
+        }
+      },
+      {
+        "date": "2022-10-03",
+        "revenue": 149235,
+        "expenses": 58382,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8529a"
+        }
+      },
+      {
+        "date": "2022-10-04",
+        "revenue": 84846,
+        "expenses": 57483,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8529b"
+        }
+      },
+      {
+        "date": "2022-10-05",
+        "revenue": 59900,
+        "expenses": 78189,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8529c"
+        }
+      },
+      {
+        "date": "2022-10-06",
+        "revenue": 97682,
+        "expenses": 71321,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8529d"
+        }
+      },
+      {
+        "date": "2022-10-07",
+        "revenue": 125220,
+        "expenses": 43858,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8529e"
+        }
+      },
+      {
+        "date": "2022-10-08",
+        "revenue": 57748,
+        "expenses": 65874,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a8529f"
+        }
+      },
+      {
+        "date": "2022-10-09",
+        "revenue": 99848,
+        "expenses": 75613,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852a0"
+        }
+      },
+      {
+        "date": "2022-10-10",
+        "revenue": 82226,
+        "expenses": 52518,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852a1"
+        }
+      },
+      {
+        "date": "2022-10-11",
+        "revenue": 56685,
+        "expenses": 49754,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852a2"
+        }
+      },
+      {
+        "date": "2022-10-12",
+        "revenue": 61444,
+        "expenses": 56829,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852a3"
+        }
+      },
+      {
+        "date": "2022-10-13",
+        "revenue": 91266,
+        "expenses": 64620,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852a4"
+        }
+      },
+      {
+        "date": "2022-10-14",
+        "revenue": 118190,
+        "expenses": 49901,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852a5"
+        }
+      },
+      {
+        "date": "2022-10-15",
+        "revenue": 68780,
+        "expenses": 50942,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852a6"
+        }
+      },
+      {
+        "date": "2022-10-16",
+        "revenue": 119387,
+        "expenses": 78402,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852a7"
+        }
+      },
+      {
+        "date": "2022-10-17",
+        "revenue": 67346,
+        "expenses": 71326,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852a8"
+        }
+      },
+      {
+        "date": "2022-10-18",
+        "revenue": 122092,
+        "expenses": 54916,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852a9"
+        }
+      },
+      {
+        "date": "2022-10-19",
+        "revenue": 74821,
+        "expenses": 74588,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852aa"
+        }
+      },
+      {
+        "date": "2022-10-20",
+        "revenue": 113851,
+        "expenses": 79499,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ab"
+        }
+      },
+      {
+        "date": "2022-10-21",
+        "revenue": 78503,
+        "expenses": 71334,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ac"
+        }
+      },
+      {
+        "date": "2022-10-22",
+        "revenue": 124545,
+        "expenses": 52521,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ad"
+        }
+      },
+      {
+        "date": "2022-10-23",
+        "revenue": 145162,
+        "expenses": 54240,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ae"
+        }
+      },
+      {
+        "date": "2022-10-24",
+        "revenue": 93508,
+        "expenses": 64045,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852af"
+        }
+      },
+      {
+        "date": "2022-10-25",
+        "revenue": 81239,
+        "expenses": 34979,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852b0"
+        }
+      },
+      {
+        "date": "2022-10-26",
+        "revenue": 127379,
+        "expenses": 72745,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852b1"
+        }
+      },
+      {
+        "date": "2022-10-27",
+        "revenue": 123144,
+        "expenses": 63377,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852b2"
+        }
+      },
+      {
+        "date": "2022-10-28",
+        "revenue": 120335,
+        "expenses": 49731,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852b3"
+        }
+      },
+      {
+        "date": "2022-10-29",
+        "revenue": 70278,
+        "expenses": 33265,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852b4"
+        }
+      },
+      {
+        "date": "2022-10-30",
+        "revenue": 105393,
+        "expenses": 42018,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852b5"
+        }
+      },
+      {
+        "date": "2022-10-31",
+        "revenue": 105637,
+        "expenses": 36750,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852b6"
+        }
+      },
+      {
+        "date": "2022-11-01",
+        "revenue": 103836,
+        "expenses": 34748,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852b7"
+        }
+      },
+      {
+        "date": "2022-11-02",
+        "revenue": 61472,
+        "expenses": 42023,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852b8"
+        }
+      },
+      {
+        "date": "2022-11-03",
+        "revenue": 66416,
+        "expenses": 65104,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852b9"
+        }
+      },
+      {
+        "date": "2022-11-04",
+        "revenue": 141708,
+        "expenses": 63156,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ba"
+        }
+      },
+      {
+        "date": "2022-11-05",
+        "revenue": 55725,
+        "expenses": 66731,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852bb"
+        }
+      },
+      {
+        "date": "2022-11-06",
+        "revenue": 63414,
+        "expenses": 45952,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852bc"
+        }
+      },
+      {
+        "date": "2022-11-07",
+        "revenue": 89509,
+        "expenses": 68338,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852bd"
+        }
+      },
+      {
+        "date": "2022-11-08",
+        "revenue": 136547,
+        "expenses": 32044,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852be"
+        }
+      },
+      {
+        "date": "2022-11-09",
+        "revenue": 58771,
+        "expenses": 43566,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852bf"
+        }
+      },
+      {
+        "date": "2022-11-10",
+        "revenue": 143946,
+        "expenses": 51132,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852c0"
+        }
+      },
+      {
+        "date": "2022-11-11",
+        "revenue": 131818,
+        "expenses": 68970,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852c1"
+        }
+      },
+      {
+        "date": "2022-11-12",
+        "revenue": 77494,
+        "expenses": 60280,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852c2"
+        }
+      },
+      {
+        "date": "2022-11-13",
+        "revenue": 134593,
+        "expenses": 41838,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852c3"
+        }
+      },
+      {
+        "date": "2022-11-14",
+        "revenue": 93412,
+        "expenses": 69430,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852c4"
+        }
+      },
+      {
+        "date": "2022-11-15",
+        "revenue": 85611,
+        "expenses": 71966,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852c5"
+        }
+      },
+      {
+        "date": "2022-11-16",
+        "revenue": 83406,
+        "expenses": 47246,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852c6"
+        }
+      },
+      {
+        "date": "2022-11-17",
+        "revenue": 86235,
+        "expenses": 57689,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852c7"
+        }
+      },
+      {
+        "date": "2022-11-18",
+        "revenue": 109870,
+        "expenses": 37877,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852c8"
+        }
+      },
+      {
+        "date": "2022-11-19",
+        "revenue": 125786,
+        "expenses": 59474,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852c9"
+        }
+      },
+      {
+        "date": "2022-11-20",
+        "revenue": 102098,
+        "expenses": 69609,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ca"
+        }
+      },
+      {
+        "date": "2022-11-21",
+        "revenue": 72509,
+        "expenses": 64875,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852cb"
+        }
+      },
+      {
+        "date": "2022-11-22",
+        "revenue": 73874,
+        "expenses": 48111,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852cc"
+        }
+      },
+      {
+        "date": "2022-11-23",
+        "revenue": 66141,
+        "expenses": 72644,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852cd"
+        }
+      },
+      {
+        "date": "2022-11-24",
+        "revenue": 68955,
+        "expenses": 54289,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ce"
+        }
+      },
+      {
+        "date": "2022-11-25",
+        "revenue": 145171,
+        "expenses": 75448,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852cf"
+        }
+      },
+      {
+        "date": "2022-11-26",
+        "revenue": 91667,
+        "expenses": 55441,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852d0"
+        }
+      },
+      {
+        "date": "2022-11-27",
+        "revenue": 147495,
+        "expenses": 58352,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852d1"
+        }
+      },
+      {
+        "date": "2022-11-28",
+        "revenue": 143852,
+        "expenses": 53321,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852d2"
+        }
+      },
+      {
+        "date": "2022-11-29",
+        "revenue": 53100,
+        "expenses": 45218,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852d3"
+        }
+      },
+      {
+        "date": "2022-11-30",
+        "revenue": 81271,
+        "expenses": 30262,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852d4"
+        }
+      },
+      {
+        "date": "2022-12-01",
+        "revenue": 77243,
+        "expenses": 64109,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852d5"
+        }
+      },
+      {
+        "date": "2022-12-02",
+        "revenue": 138287,
+        "expenses": 48225,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852d6"
+        }
+      },
+      {
+        "date": "2022-12-03",
+        "revenue": 57327,
+        "expenses": 57270,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852d7"
+        }
+      },
+      {
+        "date": "2022-12-04",
+        "revenue": 64409,
+        "expenses": 47626,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852d8"
+        }
+      },
+      {
+        "date": "2022-12-05",
+        "revenue": 133813,
+        "expenses": 51324,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852d9"
+        }
+      },
+      {
+        "date": "2022-12-06",
+        "revenue": 84111,
+        "expenses": 39083,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852da"
+        }
+      },
+      {
+        "date": "2022-12-07",
+        "revenue": 69751,
+        "expenses": 75951,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852db"
+        }
+      },
+      {
+        "date": "2022-12-08",
+        "revenue": 62741,
+        "expenses": 68580,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852dc"
+        }
+      },
+      {
+        "date": "2022-12-09",
+        "revenue": 119434,
+        "expenses": 44789,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852dd"
+        }
+      },
+      {
+        "date": "2022-12-10",
+        "revenue": 89138,
+        "expenses": 38443,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852de"
+        }
+      },
+      {
+        "date": "2022-12-11",
+        "revenue": 64222,
+        "expenses": 34645,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852df"
+        }
+      },
+      {
+        "date": "2022-12-12",
+        "revenue": 84617,
+        "expenses": 65570,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852e0"
+        }
+      },
+      {
+        "date": "2022-12-13",
+        "revenue": 116243,
+        "expenses": 78819,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852e1"
+        }
+      },
+      {
+        "date": "2022-12-14",
+        "revenue": 141939,
+        "expenses": 42259,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852e2"
+        }
+      },
+      {
+        "date": "2022-12-15",
+        "revenue": 135041,
+        "expenses": 72204,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852e3"
+        }
+      },
+      {
+        "date": "2022-12-16",
+        "revenue": 56848,
+        "expenses": 65117,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852e4"
+        }
+      },
+      {
+        "date": "2022-12-17",
+        "revenue": 58694,
+        "expenses": 36481,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852e5"
+        }
+      },
+      {
+        "date": "2022-12-18",
+        "revenue": 78793,
+        "expenses": 75241,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852e6"
+        }
+      },
+      {
+        "date": "2022-12-19",
+        "revenue": 75140,
+        "expenses": 30315,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852e7"
+        }
+      },
+      {
+        "date": "2022-12-20",
+        "revenue": 51129,
+        "expenses": 31961,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852e8"
+        }
+      },
+      {
+        "date": "2022-12-21",
+        "revenue": 78903,
+        "expenses": 60199,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852e9"
+        }
+      },
+      {
+        "date": "2022-12-22",
+        "revenue": 57812,
+        "expenses": 37953,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ea"
+        }
+      },
+      {
+        "date": "2022-12-23",
+        "revenue": 129860,
+        "expenses": 62581,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852eb"
+        }
+      },
+      {
+        "date": "2022-12-24",
+        "revenue": 130895,
+        "expenses": 70839,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ec"
+        }
+      },
+      {
+        "date": "2022-12-25",
+        "revenue": 78883,
+        "expenses": 61217,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ed"
+        }
+      },
+      {
+        "date": "2022-12-26",
+        "revenue": 139326,
+        "expenses": 35450,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ee"
+        }
+      },
+      {
+        "date": "2022-12-27",
+        "revenue": 90786,
+        "expenses": 51374,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852ef"
+        }
+      },
+      {
+        "date": "2022-12-28",
+        "revenue": 104991,
+        "expenses": 58310,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852f0"
+        }
+      },
+      {
+        "date": "2022-12-29",
+        "revenue": 111005,
+        "expenses": 38796,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852f1"
+        }
+      },
+      {
+        "date": "2022-12-30",
+        "revenue": 140344,
+        "expenses": 52735,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852f2"
+        }
+      },
+      {
+        "date": "2022-12-31",
+        "revenue": 54952,
+        "expenses": 57792,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852f3"
+        }
+      },
+      {
+        "date": "2023-01-01",
+        "revenue": 83270,
+        "expenses": 66441,
+        "_id": {
+          "$oid": "642195baa28a2b5be9a852f4"
+        }
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922618277"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922618277"
+      }
+    }
+  }
+]

@@ -1,0 +1,3646 @@
+[
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239e002001601"
+    },
+    "price": 6013,
+    "expense": 912,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396a8e001696"
+      },
+      {
+        "$oid": "63bf7ccef0323922d2001694"
+      },
+      {
+        "$oid": "63bf7ccef03239855d001557"
+      },
+      {
+        "$oid": "63bf7ccef03239554c00244d"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460456"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460456"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239e002001605"
+    },
+    "price": 7328,
+    "expense": 785,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239966c0016a0"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169f"
+      },
+      {
+        "$oid": "63bf7ccef032394cbd0016a0"
+      },
+      {
+        "$oid": "63bf7ccef03239554c002453"
+      },
+      {
+        "$oid": "63bf7ccef0323901e6001557"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239343e00169f"
+    },
+    "price": 16243,
+    "expense": 328,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032395ccf001697"
+      },
+      {
+        "$oid": "63bf7ccef0323901e600155e"
+      },
+      {
+        "$oid": "63bf7ccef03239aec9001559"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323901e6001555"
+    },
+    "price": 18736,
+    "expense": 812,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032394f5f00243a"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016de"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001696"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394cbd001699"
+    },
+    "price": 8535,
+    "expense": 933,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239aec9001558"
+      },
+      {
+        "$oid": "63bf7ccef03239f92000169a"
+      },
+      {
+        "$oid": "63bf7ccef03239742000169d"
+      },
+      {
+        "$oid": "63bf7ccef03239554c00244a"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239aec9001551"
+    },
+    "price": 18198,
+    "expense": 302,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032395ccf001698"
+      },
+      {
+        "$oid": "63bf7ccef03239343e0016ab"
+      },
+      {
+        "$oid": "63bf7ccef0323975d60016a2"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a7"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239aec9001552"
+    },
+    "price": 6217,
+    "expense": 952,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239855d00155e"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169e"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239aec9001555"
+    },
+    "price": 5468,
+    "expense": 512,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396d89000013"
+      },
+      {
+        "$oid": "63bf7ccef0323974200016a7"
+      },
+      {
+        "$oid": "63bf7ccef0323922d2001699"
+      },
+      {
+        "$oid": "63bf7ccef03239e002001608"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239aec9001556"
+    },
+    "price": 9172,
+    "expense": 473,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239cf1b0016a3"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f00243e"
+      },
+      {
+        "$oid": "63bf7ccef0323974200016a2"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239554c002443"
+    },
+    "price": 15965,
+    "expense": 379,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239554c00244e"
+      },
+      {
+        "$oid": "63bf7ccef03239855d001561"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf00169b"
+      },
+      {
+        "$oid": "63bf7ccef03239343e0016aa"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f002439"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032397420001696"
+    },
+    "price": 1040,
+    "expense": 320,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239966c00169a"
+      },
+      {
+        "$oid": "63bf7ccef032396d89000013"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d6"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e00169e"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323975d6001694"
+    },
+    "price": 3080,
+    "expense": 502,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323975d600169f"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f002440"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e001695"
+      },
+      {
+        "$oid": "63bf7ccef03239742000169c"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460470"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460470"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323975d6001696"
+    },
+    "price": 3037,
+    "expense": 863,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323922d200169c"
+      },
+      {
+        "$oid": "63bf7ccef0323974200016a5"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f002443"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460473"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460473"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323975d6001697"
+    },
+    "price": 14926,
+    "expense": 133,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239554c00244d"
+      },
+      {
+        "$oid": "63bf7ccef03239e002001606"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d6"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169e"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460473"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460473"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032395ccf00168e"
+    },
+    "price": 1357,
+    "expense": 518,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032395ccf001695"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032395ccf001690"
+    },
+    "price": 17271,
+    "expense": 573,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239966c00169d"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032395ccf001692"
+    },
+    "price": 5413,
+    "expense": 744,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323922d2001694"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016df"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323922d200168e"
+    },
+    "price": 14481,
+    "expense": 745,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032395ccf00169b"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016dd"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d4"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323922d2001690"
+    },
+    "price": 16103,
+    "expense": 448,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239966c00169a"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323922d2001692"
+    },
+    "price": 12096,
+    "expense": 890,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396a8e00169e"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001603"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396d89000007"
+    },
+    "price": 17227,
+    "expense": 392,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239554c00244b"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396d8900000a"
+    },
+    "price": 7767,
+    "expense": 414,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239343e0016ab"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239f92000168c"
+    },
+    "price": 13408,
+    "expense": 703,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396a8e00169a"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001604"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d1"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a7"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016ea"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239f92000168d"
+    },
+    "price": 3379,
+    "expense": 454,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032394cbd0016a1"
+      },
+      {
+        "$oid": "63bf7ccef0323922d200169d"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a1"
+      },
+      {
+        "$oid": "63bf7ccef0323975d60016a3"
+      },
+      {
+        "$oid": "63bf7ccef03239aec9001557"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239f92000168e"
+    },
+    "price": 18210,
+    "expense": 954,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396a8e001698"
+      },
+      {
+        "$oid": "63bf7ccef0323922d2001699"
+      },
+      {
+        "$oid": "63bf7ccef03239742000169c"
+      },
+      {
+        "$oid": "63bf7ccef03239aec900155d"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394f5f002433"
+    },
+    "price": 12993,
+    "expense": 115,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323975d600169a"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001604"
+      },
+      {
+        "$oid": "63bf7ccef03239966c001699"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001603"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323937a500168b"
+    },
+    "price": 15959,
+    "expense": 354,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016d9"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e001697"
+      },
+      {
+        "$oid": "63bf7ccef032394cbd0016aa"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001693"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323937a500168c"
+    },
+    "price": 11666,
+    "expense": 560,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239aec900155a"
+      },
+      {
+        "$oid": "63bf7ccef032394cbd0016a2"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e001694"
+      },
+      {
+        "$oid": "63bf7ccef0323975d60016a0"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239855d001551"
+    },
+    "price": 1966,
+    "expense": 643,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016d0"
+      },
+      {
+        "$oid": "63bf7ccef03239554c00244e"
+      },
+      {
+        "$oid": "63bf7ccef0323922d2001697"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239eb9d0016c3"
+    },
+    "price": 10301,
+    "expense": 681,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239966c001699"
+      },
+      {
+        "$oid": "63bf7ccef03239554c00244e"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016cd"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a8"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f00243b"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239eb9d0016c4"
+    },
+    "price": 8802,
+    "expense": 800,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323901e600155f"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016e6"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239eb9d0016c6"
+    },
+    "price": 1802,
+    "expense": 548,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239e00200160b"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf00169a"
+      },
+      {
+        "$oid": "63bf7ccef03239aec9001560"
+      },
+      {
+        "$oid": "63bf7ccef0323901e600155e"
+      },
+      {
+        "$oid": "63bf7ccef03239343e0016a9"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239eb9d0016c7"
+    },
+    "price": 12159,
+    "expense": 727,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323975d600169b"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e00169d"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d5"
+      },
+      {
+        "$oid": "63bf7ccef03239e00200160e"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239eb9d0016c8"
+    },
+    "price": 4271,
+    "expense": 726,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396a8e001696"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001608"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239eb9d0016c9"
+    },
+    "price": 10689,
+    "expense": 249,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239966c00169d"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239eb9d0016ca"
+    },
+    "price": 16296,
+    "expense": 218,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239f920001691"
+      },
+      {
+        "$oid": "63bf7ccef0323937a5001693"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001694"
+      },
+      {
+        "$oid": "63bf7ccef0323901e600155b"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239eb9d0016cc"
+    },
+    "price": 2198,
+    "expense": 786,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239343e0016a3"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001606"
+      },
+      {
+        "$oid": "63bf7ccef0323901e6001559"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239e002001600"
+    },
+    "price": 4341,
+    "expense": 597,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239554c002449"
+      },
+      {
+        "$oid": "63bf7ccef03239855d00155c"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001603"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d4"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460455"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460455"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239e002001603"
+    },
+    "price": 4625,
+    "expense": 995,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239aec900155b"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d3"
+      },
+      {
+        "$oid": "63bf7ccef03239aec9001559"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460458"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460458"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239343e00169e"
+    },
+    "price": 18722,
+    "expense": 582,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239aec9001560"
+      },
+      {
+        "$oid": "63bf7ccef032396d8900000f"
+      },
+      {
+        "$oid": "63bf7ccef0323922d2001697"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323901e6001551"
+    },
+    "price": 3107,
+    "expense": 498,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032395ccf001695"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016dd"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001606"
+      },
+      {
+        "$oid": "63bf7ccef03239855d00155b"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001604"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460461"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460461"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323901e6001556"
+    },
+    "price": 6729,
+    "expense": 632,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396d89000015"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001690"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d2"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239cf1b001698"
+    },
+    "price": 11278,
+    "expense": 674,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396a8e00169d"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e001695"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239cf1b00169a"
+    },
+    "price": 11934,
+    "expense": 862,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323975d600169e"
+      },
+      {
+        "$oid": "63bf7ccef03239554c00244b"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239aec9001553"
+    },
+    "price": 8376,
+    "expense": 109,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323975d60016a3"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f002444"
+      },
+      {
+        "$oid": "63bf7ccef03239554c002450"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf00169b"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239aec9001554"
+    },
+    "price": 6247,
+    "expense": 238,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016e4"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d0"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169b"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d5"
+      },
+      {
+        "$oid": "63bf7ccef0323975d6001698"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239554c002444"
+    },
+    "price": 19089,
+    "expense": 524,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239343e0016a2"
+      },
+      {
+        "$oid": "63bf7ccef0323974200016a3"
+      },
+      {
+        "$oid": "63bf7ccef0323922d200169c"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169e"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a7"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239554c002445"
+    },
+    "price": 15513,
+    "expense": 168,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239cf1b00169f"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169f"
+      },
+      {
+        "$oid": "63bf7ccef0323937a5001697"
+      },
+      {
+        "$oid": "63bf7ccef0323975d60016a2"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239554c002448"
+    },
+    "price": 13847,
+    "expense": 640,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032397b4f001606"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001691"
+      },
+      {
+        "$oid": "63bf7ccef03239966c001698"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032397420001699"
+    },
+    "price": 14077,
+    "expense": 902,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323974200016a2"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf00169c"
+      },
+      {
+        "$oid": "63bf7ccef0323937a500168d"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239742000169b"
+    },
+    "price": 6913,
+    "expense": 626,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016d0"
+      },
+      {
+        "$oid": "63bf7ccef0323975d600169c"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a8"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239966c001692"
+    },
+    "price": 12482,
+    "expense": 849,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016de"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d3"
+      },
+      {
+        "$oid": "63bf7ccef0323974200016a7"
+      },
+      {
+        "$oid": "63bf7ccef032396d8900000e"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001607"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239966c001694"
+    },
+    "price": 17248,
+    "expense": 238,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032394cbd0016a0"
+      },
+      {
+        "$oid": "63bf7ccef03239343e0016aa"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf00169a"
+      },
+      {
+        "$oid": "63bf7ccef03239554c00244d"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e001699"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239966c001696"
+    },
+    "price": 3797,
+    "expense": 576,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032394f5f002440"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016df"
+      },
+      {
+        "$oid": "63bf7ccef0323937a5001694"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e001698"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e001696"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323975d6001692"
+    },
+    "price": 1502,
+    "expense": 200,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396a8e001697"
+      },
+      {
+        "$oid": "63bf7ccef0323975d6001698"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460470"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460470"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323975d6001693"
+    },
+    "price": 1969,
+    "expense": 265,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323937a500168e"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460470"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460470"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396a8e001691"
+    },
+    "price": 19146,
+    "expense": 560,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323901e600155f"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032397b4f0015fb"
+    },
+    "price": 1334,
+    "expense": 617,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239cf1b0016a4"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032397b4f0015ff"
+    },
+    "price": 11933,
+    "expense": 140,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032397b4f00160b"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016ce"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d3"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001602"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a7"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239f920001689"
+    },
+    "price": 6720,
+    "expense": 837,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396a8e00169b"
+      },
+      {
+        "$oid": "63bf7ccef03239343e0016a2"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169d"
+      },
+      {
+        "$oid": "63bf7ccef0323922d2001698"
+      },
+      {
+        "$oid": "63bf7ccef03239855d001561"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394f5f002435"
+    },
+    "price": 1352,
+    "expense": 976,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239343e0016a3"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169f"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a8"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf00169d"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323937a5001689"
+    },
+    "price": 9270,
+    "expense": 553,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239343e0016a9"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a1"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001609"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323937a500168a"
+    },
+    "price": 3539,
+    "expense": 289,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323937a5001694"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016da"
+      },
+      {
+        "$oid": "63bf7ccef0323937a5001698"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016e6"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239855d001552"
+    },
+    "price": 9978,
+    "expense": 703,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016cd"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf001697"
+      },
+      {
+        "$oid": "63bf7ccef03239855d001558"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169c"
+      },
+      {
+        "$oid": "63bf7ccef0323922d2001696"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239855d001553"
+    },
+    "price": 14556,
+    "expense": 940,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323922d2001694"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239855d001554"
+    },
+    "price": 13365,
+    "expense": 103,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323937a5001690"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001696"
+      },
+      {
+        "$oid": "63bf7ccef0323901e600155e"
+      },
+      {
+        "$oid": "63bf7ccef032396d89000018"
+      },
+      {
+        "$oid": "63bf7ccef0323901e6001560"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239eb9d0016c5"
+    },
+    "price": 11984,
+    "expense": 895,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032395ccf001695"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001695"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239eb9d0016cb"
+    },
+    "price": 10290,
+    "expense": 140,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239966c00169f"
+      },
+      {
+        "$oid": "63bf7ccef032394cbd0016a6"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf00169d"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf00169e"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e001697"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239e002001602"
+    },
+    "price": 19505,
+    "expense": 672,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239e002001606"
+      },
+      {
+        "$oid": "63bf7ccef0323922d200169a"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460456"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460456"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239e002001604"
+    },
+    "price": 8741,
+    "expense": 797,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239855d00155d"
+      },
+      {
+        "$oid": "63bf7ccef03239855d001561"
+      },
+      {
+        "$oid": "63bf7ccef03239e00200160e"
+      },
+      {
+        "$oid": "63bf7ccef0323922d2001697"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f002442"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323901e6001552"
+    },
+    "price": 1221,
+    "expense": 682,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239855d00155c"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf001696"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a2"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e00169a"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169a"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323901e6001553"
+    },
+    "price": 7631,
+    "expense": 384,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239e002001608"
+      },
+      {
+        "$oid": "63bf7ccef0323922d200169b"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016e6"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394cbd00169a"
+    },
+    "price": 3575,
+    "expense": 993,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239554c002453"
+      },
+      {
+        "$oid": "63bf7ccef03239e002001608"
+      },
+      {
+        "$oid": "63bf7ccef0323937a500168d"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394cbd00169b"
+    },
+    "price": 5980,
+    "expense": 151,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323937a5001690"
+      },
+      {
+        "$oid": "63bf7ccef03239e00200160b"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f002441"
+      },
+      {
+        "$oid": "63bf7ccef0323975d60016a3"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf00169f"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394cbd00169c"
+    },
+    "price": 8645,
+    "expense": 355,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396d8900000f"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394cbd00169e"
+    },
+    "price": 1001,
+    "expense": 561,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239e002001610"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001699"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169a"
+      },
+      {
+        "$oid": "63bf7ccef03239e002001611"
+      },
+      {
+        "$oid": "63bf7ccef032394cbd00169f"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239cf1b001699"
+    },
+    "price": 15634,
+    "expense": 626,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239e002001606"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239cf1b00169b"
+    },
+    "price": 8749,
+    "expense": 874,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239343e0016ac"
+      },
+      {
+        "$oid": "63bf7ccef0323937a5001698"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239cf1b00169c"
+    },
+    "price": 3452,
+    "expense": 231,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239aec9001562"
+      },
+      {
+        "$oid": "63bf7ccef0323937a500168d"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239554c002446"
+    },
+    "price": 4382,
+    "expense": 785,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016dd"
+      },
+      {
+        "$oid": "63bf7ccef0323901e6001557"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239554c002447"
+    },
+    "price": 5831,
+    "expense": 994,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239cf1b0016a6"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169a"
+      },
+      {
+        "$oid": "63bf7ccef0323974200016a1"
+      },
+      {
+        "$oid": "63bf7ccef0323975d600169c"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239966c001697"
+    },
+    "price": 12372,
+    "expense": 285,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016e3"
+      },
+      {
+        "$oid": "63bf7ccef0323974200016a6"
+      },
+      {
+        "$oid": "63bf7ccef0323937a5001691"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323975d6001695"
+    },
+    "price": 9056,
+    "expense": 293,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323975d600169d"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460470"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460470"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396a8e001693"
+    },
+    "price": 16496,
+    "expense": 416,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016d8"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032395ccf00168f"
+    },
+    "price": 17757,
+    "expense": 704,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323922d2001698"
+      },
+      {
+        "$oid": "63bf7ccef03239855d00155c"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032397b4f0015fd"
+    },
+    "price": 15385,
+    "expense": 699,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239343e0016a3"
+      },
+      {
+        "$oid": "63bf7ccef0323974200016a3"
+      },
+      {
+        "$oid": "63bf7ccef0323975d600169c"
+      },
+      {
+        "$oid": "63bf7ccef03239742000169c"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a3"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323922d200168f"
+    },
+    "price": 3704,
+    "expense": 586,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323974200016a5"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323922d2001691"
+    },
+    "price": 7346,
+    "expense": 795,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032395ccf001696"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016de"
+      },
+      {
+        "$oid": "63bf7ccef03239f92000168f"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f00243e"
+      },
+      {
+        "$oid": "63bf7ccef032394cbd0016a5"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396d89000008"
+    },
+    "price": 2054,
+    "expense": 812,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239855d001558"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396d8900000c"
+    },
+    "price": 18102,
+    "expense": 757,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323922d2001698"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016e3"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e00169c"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001608"
+      },
+      {
+        "$oid": "63bf7ccef032396d89000013"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239f92000168a"
+    },
+    "price": 5815,
+    "expense": 319,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239f920001690"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394f5f002436"
+    },
+    "price": 12088,
+    "expense": 594,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239e00200160d"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a1"
+      },
+      {
+        "$oid": "63bf7ccef032396d8900000f"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394f5f002438"
+    },
+    "price": 3574,
+    "expense": 871,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323975d6001698"
+      },
+      {
+        "$oid": "63bf7ccef03239554c00244c"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a0"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f002442"
+      },
+      {
+        "$oid": "63bf7ccef03239f92000168f"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239855d001555"
+    },
+    "price": 17442,
+    "expense": 530,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239aec9001558"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239855d001556"
+    },
+    "price": 7755,
+    "expense": 101,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239e002001607"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239343e00169b"
+    },
+    "price": 13065,
+    "expense": 795,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323901e6001560"
+      },
+      {
+        "$oid": "63bf7ccef032396d89000013"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239343e00169c"
+    },
+    "price": 19854,
+    "expense": 950,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016d9"
+      },
+      {
+        "$oid": "63bf7ccef032396a8e001696"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a7"
+      },
+      {
+        "$oid": "63bf7ccef0323901e6001562"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239343e00169d"
+    },
+    "price": 14732,
+    "expense": 586,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239343e0016a9"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001690"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239343e0016a0"
+    },
+    "price": 3009,
+    "expense": 855,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239343e0016a3"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460459"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323901e6001554"
+    },
+    "price": 16987,
+    "expense": 835,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016d5"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169e"
+      },
+      {
+        "$oid": "63bf7ccef0323974200016a7"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460462"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394cbd00169d"
+    },
+    "price": 14221,
+    "expense": 185,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396a8e001698"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d0"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460465"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239cf1b00169d"
+    },
+    "price": 9083,
+    "expense": 783,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323975d6001698"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f002439"
+      },
+      {
+        "$oid": "63bf7ccef03239e00200160f"
+      },
+      {
+        "$oid": "63bf7ccef0323975d600169b"
+      },
+      {
+        "$oid": "63bf7ccef03239aec9001557"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460466"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032397420001697"
+    },
+    "price": 2248,
+    "expense": 536,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239cf1b0016a6"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016df"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032397420001698"
+    },
+    "price": 9216,
+    "expense": 912,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239cf1b0016a9"
+      },
+      {
+        "$oid": "63bf7ccef032396d89000015"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001691"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001699"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239742000169a"
+    },
+    "price": 10062,
+    "expense": 655,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032394f5f002442"
+      },
+      {
+        "$oid": "63bf7ccef0323922d2001695"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf001696"
+      },
+      {
+        "$oid": "63bf7ccef0323974200016a7"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239966c001693"
+    },
+    "price": 19668,
+    "expense": 332,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239554c002452"
+      },
+      {
+        "$oid": "63bf7ccef0323922d2001698"
+      },
+      {
+        "$oid": "63bf7ccef03239aec9001562"
+      },
+      {
+        "$oid": "63bf7ccef03239855d00155f"
+      },
+      {
+        "$oid": "63bf7ccef0323901e600155f"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239966c001695"
+    },
+    "price": 11284,
+    "expense": 434,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396d89000013"
+      },
+      {
+        "$oid": "63bf7ccef03239554c00244c"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460469"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396a8e00168e"
+    },
+    "price": 16745,
+    "expense": 930,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323937a5001693"
+      },
+      {
+        "$oid": "63bf7ccef03239343e0016a9"
+      },
+      {
+        "$oid": "63bf7ccef032397b4f001608"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396a8e00168f"
+    },
+    "price": 5036,
+    "expense": 438,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032394f5f00243f"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396a8e001690"
+    },
+    "price": 15161,
+    "expense": 227,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239966c001699"
+      },
+      {
+        "$oid": "63bf7ccef03239742000169f"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396a8e001692"
+    },
+    "price": 13196,
+    "expense": 880,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032397b4f001605"
+      },
+      {
+        "$oid": "63bf7ccef03239855d001561"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d9"
+      },
+      {
+        "$oid": "63bf7ccef0323901e6001558"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f002444"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032395ccf001691"
+    },
+    "price": 1748,
+    "expense": 481,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323974200016a0"
+      },
+      {
+        "$oid": "63bf7ccef0323937a5001692"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032395ccf001693"
+    },
+    "price": 15593,
+    "expense": 910,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239343e0016a7"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f002440"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b0016a9"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf00169a"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032397b4f0015fc"
+    },
+    "price": 7589,
+    "expense": 111,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239aec900155f"
+      },
+      {
+        "$oid": "63bf7ccef03239966c0016a0"
+      },
+      {
+        "$oid": "63bf7ccef03239cf1b00169f"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f002440"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032397b4f0015fe"
+    },
+    "price": 18783,
+    "expense": 666,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323937a5001692"
+      },
+      {
+        "$oid": "63bf7ccef03239aec9001559"
+      },
+      {
+        "$oid": "63bf7ccef0323922d200169b"
+      },
+      {
+        "$oid": "63bf7ccef0323922d200169c"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032397b4f001600"
+    },
+    "price": 5400,
+    "expense": 561,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239554c002454"
+      },
+      {
+        "$oid": "63bf7ccef032394cbd0016a9"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323922d2001693"
+    },
+    "price": 3446,
+    "expense": 925,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032396d89000012"
+      },
+      {
+        "$oid": "63bf7ccef03239f920001697"
+      },
+      {
+        "$oid": "63bf7ccef0323937a5001694"
+      },
+      {
+        "$oid": "63bf7ccef03239855d00155b"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf001697"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396d89000009"
+    },
+    "price": 8031,
+    "expense": 704,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef0323901e6001558"
+      },
+      {
+        "$oid": "63bf7ccef0323937a5001693"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016d9"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032396d8900000b"
+    },
+    "price": 4725,
+    "expense": 553,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239343e0016a8"
+      },
+      {
+        "$oid": "63bf7ccef032394f5f00243e"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460474"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f03239f92000168b"
+    },
+    "price": 14565,
+    "expense": 383,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef032394cbd0016aa"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394f5f002434"
+    },
+    "price": 14847,
+    "expense": 163,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239554c00244e"
+      },
+      {
+        "$oid": "63bf7ccef032395ccf00169f"
+      },
+      {
+        "$oid": "63bf7ccef0323937a500168d"
+      },
+      {
+        "$oid": "63bf7ccef0323975d60016a1"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f032394f5f002437"
+    },
+    "price": 15354,
+    "expense": 963,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239eb9d0016d0"
+      },
+      {
+        "$oid": "63bf7ccef032396d89000010"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323937a5001687"
+    },
+    "price": 12021,
+    "expense": 500,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239554c00244a"
+      },
+      {
+        "$oid": "63bf7ccef032394cbd0016a1"
+      },
+      {
+        "$oid": "63bf7ccef03239966c00169e"
+      },
+      {
+        "$oid": "63bf7ccef03239742000169f"
+      },
+      {
+        "$oid": "63bf7ccef03239eb9d0016e2"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63bf7ac9f0323937a5001688"
+    },
+    "price": 18006,
+    "expense": 639,
+    "transactions": [
+      {
+        "$oid": "63bf7ccef03239554c002453"
+      }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1679922460475"
+      }
+    }
+  }
+]
